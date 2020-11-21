@@ -1,0 +1,6 @@
+documents/
+index/
+db/
+secret.ini
+__pycache__
+.idea/
